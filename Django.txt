@@ -1,0 +1,14 @@
+Django Model (Searche for package to represent models)
+
+Django Framework can Auto build Documentation
+
+UUIDFIELD? 
+pip install django-crispy-forms (What is it?)
+
+
+Learn all setting CONFX
+
+
+
+#Model
+	- Define User Auth model in Settings
